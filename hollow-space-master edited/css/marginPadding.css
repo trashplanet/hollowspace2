@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/* ////////////////////////////////////////////////// */
+/* -===== Margin =====- */
+.Margin5, .margin5 {margin: 5px;}
+.MarginT5, .marginT5 {margin-top: 5px;}
+.MarginR5, .marginR5 {margin-right: 5px;}
+.MarginB5, .marginB5 {margin-bottom: 5px;}
+.MarginL5, .marginL5 {margin-left: 5px;}
+/**/
+.Margin, .margin, .Margin10, .margin10 {margin: 10px;}
+.MarginT, .marginT, .MarginT10, .marginT10 {margin-top: 10px;}
+.MarginR, .marginR, .MarginR10, .marginR10 {margin-right: 10px;}
+.MarginB, .marginB, .MarginB10, .marginB10 {margin-bottom: 10px;}
+.MarginL, .marginL, .MarginL10, .marginL10 {margin-left: 10px;}
+/**/
+.Margin15, .margin15 {margin: 15px;}
+.MarginT15, .marginT15 {margin-top: 15px;}
+.MarginR15, .marginR15 {margin-right: 15px;}
+.MarginB15, .marginB15 {margin-bottom: 15px;}
+.MarginL15, .marginL15 {margin-left: 15px;}
+/**/
+.Margin20, .margin20 {margin: 20px;}
+.MarginT20, .marginT20 {margin-top: 20px;}
+.MarginR20, .marginR20 {margin-right: 20px;}
+.MarginB20, .marginB20 {margin-bottom: 20px;}
+.MarginL20, .marginL20 {margin-left: 20px;}
+/**/
+.Margin30, .margin30 {margin: 30px;}
+.MarginT30, .marginT30 {margin-top: 30px;}
+.MarginR30, .marginR30 {margin-right: 30px;}
+.MarginB30, .marginB30 {margin-bottom: 30px;}
+.MarginL30, .marginL30 {margin-left: 30px;}
+/**/
+.Margin40, .margin40 {margin: 40px;}
+.MarginT40, .marginT40 {margin-top: 40px;}
+.MarginR40, .marginR40 {margin-right: 40px;}
+.MarginB40, .marginB40 {margin-bottom: 40px;}
+.MarginL40, .marginL40 {margin-left: 40px;}
+/**/
+.Margin50, .margin50 {margin: 50px;}
+.MarginT50, .marginT50 {margin-top: 50px;}
+.MarginR50, .marginR50 {margin-right: 50px;}
+.MarginB50, .marginB50 {margin-bottom: 50px;}
+.MarginL50, .marginL50 {margin-left: 50px;}
+/* ////////////////////////////////////////////////// */
+/* -===== Padding =====- */
+.Pad5, .pad5 {padding: 5px;}
+.PadT5, .padT5 {padding-top: 5px;}
+.PadR5, .padR5 {padding-right: 5px;}
+.PadB5, .padB5 {padding-bottom: 5px;}
+.PadL5, .padL5 {padding-left: 5px;}
+/**/
+.Pad, .pad, .Pad10, .pad10 {padding: 10px;}
+.PadT, .padT, .PadT10, .padT10 {padding-top: 10px;}
+.PadR, .padR, .PadR10, .padR10 {padding-right: 10px;}
+.PadB, .padB, .PadB10, .padB10 {padding-bottom: 10px;}
+.PadL, .padL, .PadL10, .padL10 {padding-left: 10px;}
+/**/
+.Pad15, .pad15 {padding: 15px;}
+.PadT15, .padT15 {padding-top: 15px;}
+.PadR15, .padR15 {padding-right: 15px;}
+.PadB15, .padB15 {padding-bottom: 15px;}
+.PadL15, .padL15 {padding-left: 15px;}
+/**/
+.Pad20, .pad20 {padding: 20px;}
+.PadT20, .padT20 {padding-top: 20px;}
+.PadR20, .padR20 {padding-right: 20px;}
+.PadB20, .padB20 {padding-bottom: 20px;}
+.PadL20, .padL20 {padding-left: 20px;}
+/**/
+.Pad30, .pad30 {padding: 30px;}
+.PadT30, .padT30 {padding-top: 30px;}
+.PadR30, .padR30 {padding-right: 30px;}
+.PadB30, .padB30 {padding-bottom: 30px;}
+.PadL30, .padL30 {padding-left: 30px;}
+/**/
+.Pad40, .pad40 {padding: 40px;}
+.PadT40, .padT40 {padding-top: 40px;}
+.PadR40, .padR40 {padding-right: 40px;}
+.PadB40, .padB40 {padding-bottom: 40px;}
+.PadL40, .padL40 {padding-left: 40px;}
+/**/
+.Pad50, .pad50 {padding: 50px;}
+.PadT50, .padT50 {padding-top: 50px;}
+.PadR50, .padR50 {padding-right: 50px;}
+.PadB50, .padB50 {padding-bottom: 50px;}
+.PadL50, .padL50 {padding-left: 50px;}
+/**/
+.Pad60, .pad60 {padding: 60px;}
+.PadT60, .padT60 {padding-top: 60px;}
+.PadR60, .padR60 {padding-right: 60px;}
+.PadB60, .padB60 {padding-bottom: 60px;}
+.PadL60, .padL60 {padding-left: 60px;}
+/**/
+.Pad80, .pad80 {padding: 80px;}
+.PadT80, .padT80 {padding-top: 80px;}
+.PadR80, .padR80 {padding-right: 80px;}
+.PadB80, .padB80 {padding-bottom: 80px;}
+.PadL80, .padL80 {padding-left: 80px;}
+/**/
+.Pad100, .pad100 {padding: 100px;}
+.PadT100, .padT100 {padding-top: 100px;}
+.PadR100, .padR100 {padding-right: 100px;}
+.PadB100, .padB100 {padding-bottom: 100px;}
+.PadL100, .padL100 {padding-left: 100px;}
+
+@media screen and (max-width:641px) {
+	.padT60,.padT50,.padT40,.padT30,.padT20,.padT  {
+	 	padding-top:20px;
+	} 
+	.padL60,.padL50,.padL40,.padL30,.padL20,.padL {
+		padding-left:20px;
+	}
+	.pad60,.pad50,.pad40,.pad30,.pad20,.pad {
+		padding:10px;
+	}
+	.padB100,.padB60,.padB50,.padB40,.padB30,.padB20,.padB {
+		padding-bottom:20px;
+	}
+	.padR60,.padR50,.padR40,.padR30,.padR20,.padR {
+		padding-right:20px;
+	}
+}
